@@ -1,0 +1,19 @@
+{
+    "title": "Bridgman",
+    "subtitle": "Lorem Ipsum",
+    "owner": {
+        "name": "Relph Bridgman",
+        "email": "bizwofficial@gmail.com"
+    },
+    "social": {
+        "github": "bizwofficial"
+    },
+    "seo": {
+        "title": "Bridgman",
+        "discription": "Blog of a student",
+        "author": "Relph Bridgman",
+        "keywords": [
+            "blog"
+        ]
+    }
+}
